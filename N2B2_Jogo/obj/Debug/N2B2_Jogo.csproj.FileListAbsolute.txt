@@ -1,0 +1,158 @@
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Form1.resources
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frJogo.resources
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\User\Documents\FTT\EC2\Algoritmos II\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Form1.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenu.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\leona_vfi17l8\Documents\faculdade\EC2\Algoritmos 2\WF\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.Form1.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenu.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\User\Desktop\N2B2_Jogo - Copia 2.0\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frTelaInicial.resources
+C:\Users\User\Desktop\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenuMinigames.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frTelaInicial.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenuMinigames.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\gabri\Downloads\N2B2_Jogo\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frmAjuda.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frmAjuda.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frTelaInicial.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenuMinigames.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC2\Algoritmos II\Trabalho\Atividade_1\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csprojAssemblyReference.cache
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frmAjuda.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frTelaInicial.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenuMinigames.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\leops\OneDrive\Área de Trabalho\Trabalhos\N2B2_Jogo\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe.config
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\bin\Debug\N2B2_Jogo.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\bin\Debug\N2B2_Jogo.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frmAjuda.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frTelaInicial.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame3.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frLoja.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMenuMinigames.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frMinigame.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.FrMinigame2.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frNome.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frOpçoes.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frPacMan.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frRecordes.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.frSobre.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.Properties.Resources.resources
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.GenerateResource.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Pac man\N2B2_Jogo\obj\Debug\N2B2_Jogo.pdb
